@@ -1,2 +1,0 @@
-# manga-ts
-lt
