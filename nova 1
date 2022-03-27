@@ -9,6 +9,9 @@ http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8?token=fwB
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-b.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",STAR
+http://187.85.237.3:8220/ipvt_002
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/2560px-Star_Hits_2020.svg.png" group-title="FILMES", STAR HITS
 http://50.7.34.155:2200/BR/Star_Hits_1_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
@@ -55,7 +58,7 @@ http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487
 http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprMj7HvSBIM9lvI5CdzHZeRkva_KFhULEAA&usqp=CAU" group-title="FILMES", SPACE HD
-http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://cdn2.connectbr.com.br:80/space/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY21yVm3SXFpUv6r5RlwQnZkfdRMGnQjoN3g&usqp=CAU" group-title="ANIMES", CAVERNA DO DRAGAO
 http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
@@ -97,3 +100,25 @@ http://50.7.34.155:2201/BR/Discovery_World_HD-br/tracks-a2/mono.m3u8?token=fwBlC
 http://50.7.34.155:2201/BR/Discovery_Theater_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
 http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",TODO MUNDO ODEIA 
+http://24h.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/9659?token=ThFQWRYNFA8aD1wDVgUGVAdTWVcNB19VAVNQUwABBVFQC1xbXFcDAlsUFRUVQUIAVF1nDV0QA1gBB1saQE0XV0dsUVxHXxQBCAEKFUoXRAxYVRpeCAQNWQQBWwBUAEgQRVpcGl9HBwQBBgEVShdVHUFVSgpYXmYFUkQLVQcaXlxAX1QURwpYalxTVFYIURJfFwAaSBtbShEVCAxDDlRIEFdaTEoEEVMXAhQNB18XHEdWX00KTUBAQw0QIGRAFEZXTUddVhYMWVsaDBtDFRccR1xDZxZcQU0TUlMPUxAaXhAFERQaCAROaltZV1kDVkQMWl5LRgMQC1AHAkAaQFULXFxHV0o6FV9RGgwbAVUNAkdI
+#EXTINF:-1 tvg-logo="" group-title="",BOBE ESPONJA
+http://51.222.104.9:8880/maria4067/4067maria/74849?token=HhsNA0IKEQIaBANUD1ZTUg4PAgtWVVAOU1lRClYAUAQDCQZUAgcKXA5HSRVFFhcBWVVvUFNGXAAEAFIKGEFAQQBLOgtVQAkaCVxVAQZTR0gaTFlUUkZcBgYMXgAAUwULURVHElgGEQIaV1EDB1VHSBpdSE1SFghWXGcCVkIKVldHAwsXXQ4fGlcLOlNTDwQKXBoKGwdGShVZSxYRDg1AXgkVRwBYFkFZTABHDRRaXFUaFBJaWBEIQ0JBRAkWIWcQSRsAGkUHXUtRCgsVDEARFxoUElBEOxRSQ0wUVlUOUEBHA0dSE04RVVkdOlRZDAsBW0xZVlkXRA0SCUQfFg5aXAxNChBuElpcGl9HBANWRxk=
+#EXTINF:-1 tvg-logo="" group-title="",Jackie cham
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",DISNEY JR
+http://187.85.237.26:8825/ipvt_006
+#EXTINF:-1 tvg-logo="" group-title="",STAR
+http://187.85.237.3:8220/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
+http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A&E 
+http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AXN
+http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT
+http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE
+http://187.85.237.34:8825/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",HBO
+http://cdn2.connectbr.com.br:80/hbo/tracks-v1a1/mono.m3u8
